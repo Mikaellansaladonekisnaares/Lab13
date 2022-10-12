@@ -31,7 +31,7 @@ public class FizzBuzzTest {
         lab13.ChengNumber(input);
         String actualResault = outContent.toString();
 
-        assertEquals(expectedResault,actualResault);
+        assertEquals(expectedResault,actualResault.trim());
     }
 
     @AfterEach
