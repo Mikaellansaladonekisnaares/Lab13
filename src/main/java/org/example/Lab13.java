@@ -18,9 +18,9 @@ public class Lab13 {
 		
 		if(C==0) {
 
-			System.out.println(Num);
+			System.out.print(Num);
 		}
-		System.out.println(Re);
+		System.out.print(Re);
 		
 		
 	}
